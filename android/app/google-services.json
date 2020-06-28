@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334496968602",
+    "firebase_url": "https://my-computer-vision-app-tree.firebaseio.com",
+    "project_id": "my-computer-vision-app-tree",
+    "storage_bucket": "my-computer-vision-app-tree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334496968602:android:dd0d959daa0a3159815423",
+        "android_client_info": {
+          "package_name": "com.example.aeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334496968602-98s3mog7p9ssjsmgf5sqalamb1q6ls36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrSUMPsXM4OI8bE-gz49o_nYTM7Xjxvwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334496968602-98s3mog7p9ssjsmgf5sqalamb1q6ls36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
